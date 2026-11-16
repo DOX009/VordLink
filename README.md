@@ -1,7 +1,7 @@
 # VordLink
 
 VordLink är inte en app för sociala medier. 
-VirdLink är ett starkt krypterat kommunikationsverktyg för vårdpersonal som arbetar i större team.
+VordLink är ett starkt krypterat kommunikationsverktyg för vårdpersonal som arbetar i större team.
 
 
 VordLink använder ett eget specialbyggt protokollpaket kallat Bramble för att ge totalsträckskryptering (end-to-end encryption) som fungerar både online och offline. Till skillnad från många andra appar som använder Signal-protokollet är Bramble byggt specifikt för att tåla fördröjningar och fungera utan internetuppkoppling.
