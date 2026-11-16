@@ -26,3 +26,10 @@ Extra skyddslager i VordLink
 • Metadata-skydd via Tor. När VordLink ansluter via internet kapslas den redan krypterade trafiken in i Tor-nätverket. Det döljer din IP-adress och hindrar utomstående från att se vem du kommunicerar med.
 
 • Oberoende granskad. Både källkoden och kryptografin har granskats av oberoende säkerhetsexperter, bland annat av Cure53 och i en säkerhetsgranskning finansierad av Open Technology Fund.
+
+• VorkLinks personliga chatt har en sekretessfunktion som kan aktiveras direkt i chatten. Funktionen lägger en tidsstämpel på alla skickade krypterade meddelanden, metadata samt kopplade bilagor i chatten, vilket automatiskt raderar all kommunikation efter 60 minuter. Denna data kan inte återställas eller dekrypteras, då nyckeln tas bort ur informationsflödet innan radering.
+
+VordLinks decentraliserade servrar i TOR-nätverket självrensar den privata chattfunktionen vart tredje dygn för att förhindra föråldrad information. Det finns med andra ord aldrig någon information äldre än 3 dagar att gå tillbaka till för någon att indexera.
+
+
+Alexander. A
